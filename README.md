@@ -95,7 +95,7 @@ php-crud-pdo/
 - **Delete User**: Click "Delete" to remove a user (confirmation required).
 
 ## License
-This project is open-source and available under the MIT License.
+This project is open-source and available under the GPL-3.0 license.
 
 ---
 Happy coding! 🚀
